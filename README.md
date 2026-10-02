@@ -65,3 +65,5 @@ dsh plugin --profile web remove dsh-typesafe-ai-skill
 ## 许可
 
 MIT。技能内容源自 TypeSafe 官方插件，部署配置由实际调用线上 API 验证后整理。
+
+**插件由 陈先生Cool 研发，允许全网全球免费使用。**
